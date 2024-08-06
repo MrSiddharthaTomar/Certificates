@@ -1,2 +1,3 @@
 # Certificates
-All certificates Acquired yet (still adding more +)
+This repositery contains all certificates Acquired yet 
+(still adding more +)
